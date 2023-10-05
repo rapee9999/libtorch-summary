@@ -1,0 +1,11 @@
+*.pt
+*.pth
+*.lib
+*.dll
+*.so*
+.build
+bin
+lib
+example/model-store/*
+!example/model-store/save_dcgan.py
+!example/model-store/requirements.txt

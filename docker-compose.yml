@@ -1,0 +1,10 @@
+version: "3"
+services:
+  dev-container:
+    image: rapee9999/libtorch-cdev:latest
+    container_name: libtorch-summary-dev
+    stdin_open: true
+    tty: true
+    command: ["bash"]
+    volumes:
+      - .:/app
