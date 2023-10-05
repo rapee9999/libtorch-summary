@@ -50,9 +50,14 @@ This folder demonstrates how to use libtorch-summary.
     - example/bundle Windows version<br>
     `./example/bundle/.build/Debug/example example/model-store/jit_script_dcgan.pt 1 100 1 1 24`
 
-    > *Arguments:*<br>
-    First: Number of input data<br>
-    Second: Number of channel<br>
-    Third: Height<br>
-    Fourth: Width<br>
-    Fifth: Table column width
+<div style="text-align: center">
+    <img src="libtorch-summary.png" height=300 alt>
+    <em>Example output in console.</em>
+</div>
+
+> *Arguments:*<br>
+First: Number of input data<br>
+Second: Number of channel<br>
+Third: Height<br>
+Fourth: Width<br>
+Fifth: Table column width
