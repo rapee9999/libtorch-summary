@@ -19,7 +19,7 @@ libtorch-summary is a C++ library to print libtorch's (aka PyTorch C++ version) 
 ## Get Library
 Library is available in two channels.
 1. [Build from source code](#build-libtorch-summary-library-from-source-code)
-2. [~~Download from release~~]()
+2. [Download from release](https://github.com/rapee9999/libtorch-summary/releases)
 
 ### Build `libtorch-summary` Library from Source Code
 1. Clone this git repo in your preferred directory by running below command.<br>
