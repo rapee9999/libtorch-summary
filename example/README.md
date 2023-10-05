@@ -52,7 +52,7 @@ This folder demonstrates how to use libtorch-summary.
 
 <div style="text-align: center">
     <img src="libtorch-summary.png" height=300 alt>
-    <em>Example output in console.</em>
+    <p><em>Example output in console.</em></p>
 </div>
 
 > *Arguments:*<br>

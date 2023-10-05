@@ -5,7 +5,7 @@ libtorch-summary is a C++ library to print libtorch's (aka PyTorch C++ version) 
 
 <div style="text-align: center">
     <img src="example/libtorch-summary.png" height=300 alt>
-    <em>Example torch-summary table in console.</em>
+    <p><em>Example torch-summary table in console.</em></p>
 </div>
 
 
