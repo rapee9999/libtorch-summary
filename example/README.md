@@ -38,7 +38,8 @@ This folder demonstrates how to use libtorch-summary.
 1. Before run the application, prepare PyTorch model as following.
     1. Install Python 3.10.
     1. Install packages by running `pip install -r example/model-store/requirements.txt`.
-    1. Run `python example/model-store/save_dcgan.py`
+    1. Change directory `cd example/model-store`
+    1. Run `python save_dcgan.py`
     1. And you will find `example/model-store/jit_script_dcgan.pt`.
 1. Run example applications by one of below commands.    
     - example/api Linux version:<br>
